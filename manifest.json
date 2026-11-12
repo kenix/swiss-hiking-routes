@@ -1,0 +1,12 @@
+{
+ "build": "2026-11-12",
+ "format": 1,
+ "release": "routes-2026-11-12",
+ "base": "https://github.com/kenix/swiss-hiking-routes/releases/download/routes-2026-11-12/",
+ "licence": "Opendata BY",
+ "attribution": "Source: ASTRA / SchweizMobil",
+ "file": "routes.json.deflate",
+ "bytes": 542319,
+ "routes": 443,
+ "stages": 982
+}
